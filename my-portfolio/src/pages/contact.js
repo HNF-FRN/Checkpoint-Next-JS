@@ -9,7 +9,7 @@ export default function Contact() {
         <p className="mt-4 text-gray-600">
           You can reach me at{' '}
           <a href="mailto:you@example.com" className="text-blue-500 underline">
-            you@example.com
+            hanafi.frn.work@gmail.com
           </a>
         </p>
       </main>

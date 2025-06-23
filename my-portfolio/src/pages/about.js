@@ -7,7 +7,7 @@ export default function About() {
       <main className="p-8">
         <h1 className="text-3xl font-bold">About Me</h1>
         <p className="mt-4 text-gray-600">
-          I'm a frontend developer focused on building clean and user-friendly web applications.
+          I'm a developer focused on building clean and websites
         </p>
       </main>
     </>
